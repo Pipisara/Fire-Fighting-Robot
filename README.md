@@ -1,7 +1,7 @@
 
-# 🚗 **Robo Car Project** 🚗
+# 🚗 **Fire Fighting Robot Project** 🚗
 
-Welcome to the **Robo Car Project**! 🎉 This project involves a **robotic car** controlled wirelessly using an **Arduino Mega** and the **nRF24L01** radio module. The car is designed to navigate in various directions, respond to flame detection, and operate a water pump when necessary.
+Welcome to the **Fire Fighting Robot Projectt**! 🎉 This project involves a **robotic car** controlled wirelessly using an **Arduino Mega** and the **nRF24L01** radio module. The car is designed to navigate in various directions, respond to flame detection, and operate a water pump when necessary.
 
 ## 🌟 Features
 
