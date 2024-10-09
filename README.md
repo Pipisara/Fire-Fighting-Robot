@@ -27,9 +27,6 @@ To get started with this project, clone the repository and upload the respective
 ### Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/robocar.git
-   ```
 
 2. Open the code in the Arduino IDE and upload it to your Arduino Mega and remote controller.
 
